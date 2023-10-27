@@ -1,0 +1,27 @@
+﻿  pch.cpp
+  dllmain.cpp
+  test.cpp
+G:\VX\c\c\test.cpp(1): warning C4603: “BUILD_TEST”: 未定义宏或在预编译头使用后定义发生改变
+G:\VX\c\c\test.cpp(1): message : 将宏添加到预编译头中，而不是在此处定义
+G:\VX\c\c\test.cpp(4): message : 使用预编译头
+G:\VX\c\c\test.cpp(46,3): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+G:\VX\c\c\test.cpp(48,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\VX\c\c\test.cpp(49,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\VX\c\c\test.cpp(50,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\VX\c\c\test.cpp(51,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\VX\c\c\test.cpp(106,46): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+G:\VX\c\c\test.cpp(107,57): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+G:\VX\c\c\test.cpp(109,46): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+G:\VX\c\c\test.cpp(110,59): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+G:\VX\c\c\test.cpp(128,74): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+G:\VX\c\c\test.cpp(142,71): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+G:\VX\c\c\test.cpp(103,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\VX\c\c\test.cpp(104,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\VX\c\c\test.cpp(177,46): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+G:\VX\c\c\test.cpp(178,49): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+G:\VX\c\c\test.cpp(229,46): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+G:\VX\c\c\test.cpp(230,53): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+G:\VX\c\c\test.cpp(228,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+    正在创建库 G:\VX\c\x64\Debug\c.lib 和对象 G:\VX\c\x64\Debug\c.exp
+  c.vcxproj -> G:\VX\c\x64\Debug\c.dll
